@@ -337,7 +337,6 @@
 						<xs:enumeration value="Android" />
 						<xs:enumeration value="XboxOne"/>
 						<xs:enumeration value="Linux"/>
-						<xs:enumeration value="Stadia"/>
 						<xs:enumeration value="WindowsPhone"/>
 						<xs:enumeration value="Switch"/>
 						<xs:enumeration value="Lumin"/>
